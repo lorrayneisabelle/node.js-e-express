@@ -27,8 +27,22 @@ npm-debug.log*
 *.code-workspace
 
 # Aulas em desenvolvimento
-Aula06/
 
+Aula08/
+Aula09/
+Aula10/
 dicas.md
+
+ 
+
+
+COMO_SINCRONIZAR_ALTERACOES.md
+HISTORICO_DO_PROJETO.md
+Praticando-Assincronia/
+Tests/src/db.js
+pool.md
+pool.md.backup
+retomada-conversa.md
+teste-de-memoria.md
 
 
